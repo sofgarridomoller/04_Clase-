@@ -1,0 +1,39 @@
+.bg-celeste {
+	background: black;
+}
+
+.bg-celeste:hover{
+	background: hsl(0,0%,50%);
+	transition: all ease .5s;
+}
+
+
+
+
+
+
+
+
+
+body{
+	padding-top: 3.5rem;
+	background: white;
+	font-family: 'IBM Plex Serif', serif;
+	font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-weight: 700;
+	font-family: 'IBM Plex Serif', serif;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+img{
+	border: 5px solid white;
+	box-shadow: 0 0 5px rbga (0,0,0,.5);
+}
+
+iframe {width: 100%; height: auto;}
